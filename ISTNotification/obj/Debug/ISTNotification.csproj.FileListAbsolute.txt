@@ -1,0 +1,84 @@
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.exe.config
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.exe
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.pdb
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\BouncyCastle.Crypto.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Hash.xxHash.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\MySql.Data.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Buffers.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.IO.Pipelines.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Memory.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Numerics.Vectors.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\ZstdSharp.dll
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\BouncyCastle.Crypto.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.pdb
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Hash.xxHash.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\MySql.Data.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Buffers.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.IO.Pipelines.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Memory.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Numerics.Vectors.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.AssemblyReference.cache
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.CoreCompileInputs.cache
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.CopyComplete
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.exe
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.pdb
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.ProjectInstaller.resources
+D:\Systems\Windows Services\In-Service Training Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.GenerateResource.cache
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.exe.config
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.exe
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\ISTNotification.pdb
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\BouncyCastle.Crypto.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Hash.xxHash.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\MySql.Data.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Serilog.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Buffers.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.IO.Pipelines.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Memory.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Numerics.Vectors.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\ZstdSharp.dll
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\BouncyCastle.Crypto.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.pdb
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Google.Protobuf.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\K4os.Hash.xxHash.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\MySql.Data.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\Serilog.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Buffers.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.IO.Pipelines.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Memory.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Numerics.Vectors.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.AssemblyReference.cache
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.ProjectInstaller.resources
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.GenerateResource.cache
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.CoreCompileInputs.cache
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.csproj.CopyComplete
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.exe
+D:\Systems\Windows_Services\In_Service_Training_Notification\ISTNotification\ISTNotification\obj\Debug\ISTNotification.pdb

@@ -1,0 +1,9 @@
+Timer started at: 10/11/2023 11:13:01 AM
+Timer elapsed at: 10/11/2023 11:15:12 AM
+Timer started at: 10/11/2023 11:15:12 AM
+Notification for M1-2112002 - LLAVORE, GOSPEL L. in mib1_taguig was sent.
+Notification for 3328175795 - LANDAYAN, CHRISTOPHER R. in mib1_taguig was sent.
+Notification for M2-2002018 - DESTURA, LLOYD D. in mib1_taguig was sent.
+Notification for M2-2304011 - ICBAN, MARCK ANTONIE M. in mib2 was sent.
+Notification for 3316219980 - TOLENTINO, JOEL O. in mib2 was sent.
+Notification for 3321617917 - BEQUIN, ROMMEL B. in mib1_taguig was sent.
